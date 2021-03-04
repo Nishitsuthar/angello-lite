@@ -1,5 +1,5 @@
 # Angello Lite
-#### An introductory version of [Angello](https://github.com/angularjs-in-action/angello), the app built in the book [AngularJS in Action](http://www.manning.com/bford/).
+#### An introductory version of [Angello], the app built in the book [AngularJS in Action](http://www.manning.com/bford/).
 
 
 ## Prerequisites
@@ -10,7 +10,7 @@ You'll need [`git`](http://git-scm.com/) and a web browser.
 Run the following command to check out a local copy of the code.
 
 ```shell
-git clone https://github.com/angularjs-in-action/angello-lite.git
+git clone https://github.com/Nishitsuthar/angello-lite.git
 ```
 
 

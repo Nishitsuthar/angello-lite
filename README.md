@@ -2,17 +2,12 @@
 #### An introductory version of [Angello], the app built in the book [AngularJS in Action](http://www.manning.com/bford/).
 
 
-## Prerequisites
-You'll need [`git`](http://git-scm.com/) and a web browser.
-
-
 ## Getting it
 Run the following command to check out a local copy of the code.
 
 ```shell
 git clone https://github.com/Nishitsuthar/angello-lite.git
 ```
-
 
 ## Running it
 Because we are pulling files from a CDN, we are going to need to run Angello Lite from a web server. There are a few ways to do this, but one of the easiest ways is to use the npm package `serve`.
